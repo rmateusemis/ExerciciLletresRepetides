@@ -19,7 +19,6 @@ function enviar() {
   console.log(countLetter);
 }
 
-
 /*
 function enviar(){
 
