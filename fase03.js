@@ -14,7 +14,7 @@ function enviar() {
       countLetter[letter] = 1
     }
     return countLetter;
-  },);
+  });
 
   console.log(countLetter);
 }
